@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18711167.svg)](https://doi.org/10.5281/zenodo.18711167)
+
 # 4D Printing via Process‑Induced Anisotropy
 ### Open Research Workflow, FAIR Metadata, and Reproducibility Resources  
 **Dataset DOI:** https://doi.org/10.5281/zenodo.18711167
